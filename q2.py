@@ -18,3 +18,6 @@ c = zero/n
 result = [a, b, c]
 
 print(result)
+print(f"The ratio of positive number is {a} ")
+print(f"The ratio of negative number is {b} ")
+print(f"The ratio of zero number is {c} ")
